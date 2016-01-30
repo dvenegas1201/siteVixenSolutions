@@ -11,7 +11,7 @@ module.exports = {
    srcImagesDir: './src/img/**/*.{jpg,png,svg}',
    buildImagesDir: './public/assets/img/',
 
-   buildHtmlDir: './**/*.html',
+   buildHtmlDir: './*.html',
 
    srcJavascriptInit: './src/js/initApp.js',
    buildJavascriptDir: './public/assets/js/',

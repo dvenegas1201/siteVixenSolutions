@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dvenegas1201/vixen.solutions.git"
+    "url": "git+https://github.com/dvenegas1201/siteVixenSolutions.git"
   },
   "author": "Vixen solutions",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dvenegas1201/vixen.solutions/issues"
+    "url": "https://github.com/dvenegas1201/siteVixenSolutions/issues"
   },
-  "homepage": "https://github.com/dvenegas1201/vixen.solutions#readme"
+  "homepage": "https://github.com/dvenegas1201/siteVixenSolutions#readme"
 }
