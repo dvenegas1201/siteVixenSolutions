@@ -1,0 +1,14 @@
+/**
+ * Import dependencies
+ */
+@import 'compass/reset';
+@import 'compass/css3';
+@import 'compass/css3/transform';
+
+body{
+    @include display-flex;
+    @include justify-content(center);
+    @include align-items(center);
+    background-color: white;
+    height: 100vh;
+}
