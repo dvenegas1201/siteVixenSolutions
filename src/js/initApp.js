@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
+import Menu from './components/menu';
+import Page from './components/page';
 
 class InitApp extends Component{
     constructor(props) {
@@ -8,7 +10,11 @@ class InitApp extends Component{
 
     render() {
         return(
-            <h1>hola mundo!!! </h1>
+            <div>
+                <Menu />
+                <Page />
+                <button className="menu-button"><span>Menu</span></button>
+            </div>
         )
     }
 }

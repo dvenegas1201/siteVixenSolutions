@@ -9,7 +9,7 @@ module.exports = {
    //libDir: './bower_components',
 
    srcImagesDir: './src/img/**/*.{jpg,png,svg}',
-   buildImagesDir: './public/assets/img/',
+   buildImagesDir: './public/assets/images/',
 
    buildHtmlDir: './*.html',
 

@@ -3,6 +3,7 @@
  */
 var gulp = require('gulp');
 var gutil = require("gulp-util");
+var concat = require("gulp-concat");
 var babelify = require('babelify');
 var sass = require('gulp-ruby-sass');
 var browserify = require('browserify');
